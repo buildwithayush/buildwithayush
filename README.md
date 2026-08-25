@@ -1,45 +1,61 @@
-<h1 align="left">Hi 👋, I'm Ayush</h1>
+# Hi 👋, I'm Ayush
 
-<h2 align="left">Software Developer based in India 🇮🇳</h2>
+### Software Developer from India
 
-<h3 align="left">
-Software Developer specializing in mobile application development with Flutter.<br>
-Continuously learning new technologies to build modern, scalable solutions.
-</h3>
+I build mobile and backend applications with a focus on clean architecture, scalable systems, and modern development practices.
 
-<h3 align="left">
-✨ Creating bugs since: 2025 <br>
-📚 Currently learning: Advanced Flutter, App Architecture & Backend Fundamentals <br>
-🎯 Goals: Build scalable applications and grow as a versatile software developer <br>
-🎲 Fun fact: I enjoy turning complex problems into simple solutions
-</h3>
+Currently expanding from mobile development into backend engineering and building projects that combine **Flutter, FastAPI, databases, Docker, and CI/CD**.
 
 ---
 
-<h2 align="left">🛠️ I code with</h2>
+## 🚀 What I'm Working With
 
 <div align="left">
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" />
-<img src="https://img.shields.io/badge/Android%20Studio-346AC1?style=for-the-badge&logo=androidstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Isar-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
 <br/>
 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
 </div>
+
+---
+
+## 🌱 Currently Learning
+
+* Backend architecture and scalable API development
+* FastAPI, SQLAlchemy, and database design
+* Docker and containerized applications
+* CI/CD with GitHub Actions
+* Building production-ready Flutter applications
+
+---
+
+## 🎯 Current Goal
+
+To grow into a versatile **Software Developer** capable of building complete applications—from polished mobile experiences to scalable backend systems.
+
+I enjoy learning by building, breaking things, fixing them, and gradually improving the architecture along the way.
+
+---
+
+## 📫 Let's Connect
+
+Feel free to explore my repositories and projects. I'm continuously building and learning.
+
